@@ -1,0 +1,7 @@
+D:\Dot net\DatabaseConnectivity\bin\Debug\DatabaseConnectivity.exe.config
+D:\Dot net\DatabaseConnectivity\bin\Debug\DatabaseConnectivity.exe
+D:\Dot net\DatabaseConnectivity\bin\Debug\DatabaseConnectivity.pdb
+D:\Dot net\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.csproj.AssemblyReference.cache
+D:\Dot net\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.csproj.CoreCompileInputs.cache
+D:\Dot net\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.exe
+D:\Dot net\DatabaseConnectivity\obj\Debug\DatabaseConnectivity.pdb
